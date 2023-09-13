@@ -1,7 +1,17 @@
+
 from pulp import *
 import pytz
 import pycountry
 from datetime import datetime
+
+print ( ' ________________________________________________________
+             #   #    #   ####  #   #  ######  #####  #            ]
+             ## ##    #   #      # #   #    #  #      #            ]
+             # # #    #   #      ###   ######  ####   #            ]
+             #   #    #   #      # ##  #    #  #      #            ]
+            ##   ##   #   #####  #   # #    #  #####  #######      ]
+            _______________________________________________________]
+             https://github.com/Coelhomicka/  ')
 
 # Coletar entrada do usuário
 num_usuarios = int(input("Quantos usuários vão para a reunião (máximo 6): "))
